@@ -1,0 +1,8 @@
+- group: Friends
+  description:  Some familiar friends
+  items:
+    - title: Fiveth
+      avatar: https://p.fiveth.cc/avatar.jpg
+      url: https://blog.fiveth.cc/about/
+      keywords: 学生、独立开发者、博主
+      description: Who looks outside, dreams Who looks inside, awakes
